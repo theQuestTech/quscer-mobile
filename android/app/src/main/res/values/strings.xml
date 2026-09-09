@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quscer OS</string>
+    <string name="title_activity_main">Quscer OS</string>
+    <string name="package_name">com.thequesttech.quscer</string>
+    <string name="custom_url_scheme">com.thequesttech.quscer</string>
+</resources>

@@ -1,0 +1,9 @@
+{
+	"appId": "com.thequesttech.quscer",
+	"appName": "Quscer OS",
+	"webDir": "www",
+	"server": {
+		"url": "https://quscer-frontend.vercel.app",
+		"androidScheme": "https"
+	}
+}
